@@ -1,0 +1,80 @@
+{
+    "current_character": null,
+    "current_filter": null,
+    "characters": [
+        {
+            "name": "Mario",
+            "slug": "mario",
+            "filters": ["mechanics"],
+            "image": "mario.png",
+            "color": "red"
+        },
+        {
+            "name": "Luigi",
+            "slug": "luigi",
+            "filters": ["mechanics"],
+            "image": "luigi.png",
+            "color": "DodgerBlue"
+        },
+        {
+            "name": "Bowser",
+            "slug": "bowser",
+            "filters": ["animals"],
+            "image": "bowser.png",
+            "color": "orange"
+        },
+        {
+            "name": "Princess Peach",
+            "slug": "princess-peach",
+            "filters": ["princesses"],
+            "image": "princess-peach.png",
+            "color": "pink"
+        },
+        {
+            "name": "Yoshi",
+            "slug": "yoshi",
+            "filters": ["animals"],
+            "image": "yoshi.png",
+            "color": "limegreen"
+        },
+        {
+            "name": "Toad",
+            "slug": "toad",
+            "filters": ["mushrooms"],
+            "image": "toad.png",
+            "color": "yellow"
+        },
+        {
+            "name": "Wario",
+            "slug": "wario",
+            "filters": ["spooks"],
+            "image": "wario.png",
+            "color": "purple"
+        },
+        {
+            "name": "Princess Daisy",
+            "slug": "princess-daisy",
+            "filters": ["princesses"],
+            "image": "princess-daisy.png",
+            "color": "gold"
+        }
+    ],
+    "filters": [
+        {
+            "name": "Mechanics",
+            "slug": "mechanics"
+        },
+        {
+            "name": "Princesses",
+            "slug": "princesses"
+        },
+        {
+            "name": "Animals",
+            "slug": "animals"
+        },
+        {
+            "name": "Mushrooms",
+            "slug": "mushrooms"
+        }
+    ]
+}
