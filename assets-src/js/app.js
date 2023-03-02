@@ -10,7 +10,6 @@ const options = {
 };
 
 const swup = new Swup(options);
-window.swup = swup;
 
 let modalCloseUrl = null;
 const setModalCloseUrl = e => {
