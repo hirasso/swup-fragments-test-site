@@ -1,12 +1,11 @@
 
 import '../scss/app.scss';
 
-import Swup from '../../../swup/src/index.js';
+import Swup from '../../../swup/src/index.ts';
 
 const options = {
   containers: ['#swup', '#nav'],
   cache: true,
-  linkSelector: `a[href^="${window.location.origin}"]:not([data-no-swup]), a[href^="./"]:not([data-no-swup]), a[href^="#"]:not([data-no-swup])`,
   plugins: [],
 };
 
